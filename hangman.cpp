@@ -1,6 +1,6 @@
 //Created By:
 //https://github.com/AbdulAhad210904
-//https://github.com/AbdulAhad210904
+//https://github.com/HuzaifaAzhar
 
 #include <cstdlib> // for rand() and srand()
 #include <ctime> // for time()
