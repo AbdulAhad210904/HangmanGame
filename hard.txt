@@ -1,0 +1,10 @@
+elephant
+giraffe
+rhinoceros
+crocodile
+hippopotamus
+kangaroo
+opossum
+porcupine
+squirrel
+turtle
